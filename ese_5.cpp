@@ -15,7 +15,7 @@ int main()
 	double Der2[4]={5.229,9.63,0.25,2};
 	//Derivate quarte in A
 	double Der4[4]={83.66,214.658,0.0625,3};
-	//Definisco l'errore
+	//Definisco l'errore: 1e-4 o 1e-6, a seconda della richiesta dell'esercizio
 	double delta=1e-4;
 	//Calcolo i rispettivi N per avere delta come errore massimo
 	int NTrapezio[4], NSimpson[4];
