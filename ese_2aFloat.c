@@ -18,5 +18,3 @@ int main(){
     return 0;
 }
 
-//note relazione: entro un mese, penalità 1pt per ritardo
-//  relazione in latex, inviamo il codice.
